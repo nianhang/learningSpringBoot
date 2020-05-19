@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+#person:
+#  lastName: test
+#  age: 18
+#  boss: false
+#  birth: 2017/12/12
+#  maps: {test: name,lin: de}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小狗
+#    age: 12
