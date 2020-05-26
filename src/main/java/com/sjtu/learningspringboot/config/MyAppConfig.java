@@ -11,7 +11,7 @@ public class MyAppConfig {
 
     @Bean
     public HelloService helloService02(){
-        System.out.println("给容器中添加主键");
+        //System.out.println("给容器中添加主键");
         return new HelloService();
     }
 
